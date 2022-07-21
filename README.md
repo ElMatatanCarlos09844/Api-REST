@@ -19,6 +19,7 @@
 sending a data in body like:
 
 {
+
     "Title": "Aliens",
 
     "Autor": "James Cameron",
@@ -26,6 +27,7 @@ sending a data in body like:
     "Date": "2015",
 
     "Ratting": "⭐⭐⭐⭐"
+    
 }
 
 ### DELETE
@@ -38,6 +40,7 @@ The id of the movie.
 sending a data in body like:
 
 {
+
     "Title": "Aliens",
 
     "Autor": "James Cameron",
@@ -45,4 +48,5 @@ sending a data in body like:
     "Date": "2015",
 
     "Ratting": "⭐⭐⭐⭐"
+    
 }
