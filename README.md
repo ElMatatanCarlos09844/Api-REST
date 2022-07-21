@@ -17,11 +17,17 @@
 ### POST
 - **movies** http://localhost:3000/api/movies
 sending a data in body like:
+
 {
+
     "Title": "Aliens",
+
     "Autor": "James Cameron",
+
     "Date": "2015",
+
     "Ratting": "⭐⭐⭐⭐"
+    
 }
 
 ### DELETE
@@ -32,9 +38,15 @@ The id of the movie.
 - **Movies** http://localhost:3000/api/movies/id
 The id of the movie.
 sending a data in body like:
+
 {
+
     "Title": "Aliens",
+
     "Autor": "James Cameron",
+
     "Date": "2015",
+
     "Ratting": "⭐⭐⭐⭐"
+    
 }
